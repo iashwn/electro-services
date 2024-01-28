@@ -1,0 +1,17 @@
+.demo_class{
+    background-color: red;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    color: aliceblue;
+    width: 500px;
+}
+.demo_class_2{
+    border-width: 20px;
+    border-color: black;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    color: red;
+    width: 500px;
+}
